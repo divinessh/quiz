@@ -1,3 +1,5 @@
+//bacbbadadabccbccdaccacdadabdcddacbdbbad
+
 // creating an array and passing the number, questions, options, and answers
 let questions = [
     {
@@ -36,7 +38,7 @@ let questions = [
     {
     numb: 4,
     question: "Which of the following are voluntary action examples?",
-    answer: "Sleeping",
+    answer: "Eating",
     options: [
       "Sneezing",
       "Eating",
@@ -57,7 +59,7 @@ let questions = [
   },
         {
     numb: 6,
-    question: "What is the im",
+    question: "What is the importance of human nervous system?",
     answer: "Sleeping",
     options: [
       "Food Digestion",
