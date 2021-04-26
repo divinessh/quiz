@@ -2,57 +2,68 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: "What does CNS and PNS stand for?",
+    answer: "Central Nervous System and Peripheral Nervous System",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "Center Nervous System and Peripheral Nervous System",
+      "Central Nervous System and Pheripheral Nervous System",
+      "Central Nervous System and Peripheral Nervous System",
+      "Central Nervous System and Periperal Nervous System"
     ]
   },
     {
     numb: 2,
-    question: "What does CSS stand for?",
-    answer: "Cascading Style Sheet",
+    question: "How many cranial nerves exist in PNS?",
+    answer: "12",
     options: [
-      "Common Style Sheet",
-      "Colorful Style Sheet",
-      "Computer Style Sheet",
-      "Cascading Style Sheet"
+      "12",
+      "9",
+      "31",
+      "43"
     ]
   },
     {
     numb: 3,
-    question: "What does PHP stand for?",
-    answer: "Hypertext Preprocessor",
+    question: "How many spinal nerves exist in PNS?",
+    answer: "31",
     options: [
-      "Hypertext Preprocessor",
-      "Hypertext Programming",
-      "Hypertext Preprogramming",
-      "Hometext Preprocessor"
+      "12",
+      "9",
+      "31",
+      "43"
     ]
   },
     {
     numb: 4,
-    question: "What does SQL stand for?",
-    answer: "Structured Query Language",
+    question: "Which of the following are voluntary action examples?",
+    answer: "Sleeping",
     options: [
-      "Stylish Question Language",
-      "Stylesheet Query Language",
-      "Statement Question Language",
-      "Structured Query Language"
+      "Sneezing",
+      "Eating",
+      "Food Digestion",
+      "Respiration"
     ]
   },
     {
     numb: 5,
-    question: "What does XML stand for?",
-    answer: "eXtensible Markup Language",
+    question: "Which is NOT an involuntary action?",
+    answer: "Sleeping",
     options: [
-      "eXtensible Markup Language",
-      "eXecutable Multiple Language",
-      "eXTra Multi-Program Language",
-      "eXamine Multiple Language"
+      "Food Digestion",
+      "Sleeping",
+      "Heart-beating",
+      "Peristalsis"
+    ]
+  },
+        {
+    numb: 6,
+    question: "What is the im",
+    answer: "Sleeping",
+    options: [
+      "Food Digestion",
+      "Sleeping",
+      "Heart-beating",
+      "Peristalsis"
     ]
   },
   // you can uncomment the below codes and make duplicate as more as you want to add question
